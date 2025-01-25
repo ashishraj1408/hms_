@@ -27,7 +27,7 @@ $config['base_url']	= 'http://localhost/hotel_management_system';
 |
 */
 $config['index_page'] = '';
-$config['base_url'] = 'http://localhost/hms/hotel_management_system/';
+$config['base_url'] = 'http://localhost/hms/hms/hotel_management_system/';
 
 
 /*
